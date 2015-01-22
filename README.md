@@ -3,7 +3,7 @@ Map arrays (or hashes, with ```Enumerable.hashify```) of attributes out of enume
 
 ## Installation
 ```ruby
-gem 'mapify', '~> 0.0.4'
+gem 'mapify', '~> 0.0.5'
 ```
 
 ## Examples
